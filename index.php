@@ -15,7 +15,6 @@
 		</header>
 		<main id="main">
 			<div id="left">
-				<p></p>
 				<?php
 				if(have_posts()){
 					while(have_posts()){
